@@ -51,17 +51,9 @@ Estatísticas
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/slides_info_aula02/home/internet/</guid>
-      <description> www Como funciona a internet?
- </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/slides_info_aula02/home/historico/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides_info_aula02/home/historico/</guid>
-      <description> Histórico ARPANET
+      <description> www Internet
+Como funciona a internet?
+ Histórico ARPANET
 1969 - Embrião da internet
  Cern Primeiro website
  Vídeo complementar 1 
@@ -133,13 +125,16 @@ Cabo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jp-guimaraes.github.io/slides_info_aula02/home/wifi/</guid>
-      <description>WIFI Frequências de trabalho 2.4GHZ e 5GHZ
+      <description> WIFI Frequências de trabalho 2.4GHZ e 5GHZ
 Vantagens e desvantagens?
 Por quê?
  Comprimento de onda O quanto menor for a frequência -&amp;gt; maior será o comprimento de onda
 Implica numa **maior** distância ***Maior*** capacidade de penetrar obstáculos   Relembrando  Leitura complementar
- Wifi causa câncer? Maior frequência -&amp;gt; maior a intensidade da energia emitida no mesmo intervalo de tempo (menor comprimento de onda)
-Altas concetraçòes de enrgia -&amp;gt; Radiação ionizante (quebra de ligações atômicas) -&amp;gt; Câncer</description>
+ 2.4GHZ vs 5GHz
+Alcance?
+Interferência?
+Canais de transmissão
+ Alcance  Canais de transmissão  </description>
     </item>
     
     <item>
@@ -151,11 +146,6 @@ Altas concetraçòes de enrgia -&amp;gt; Radiação ionizante (quebra de ligaç�
       <description> Ferramentas de busca Google
 Bing
 Duckduckgo
- Periódicos Portal de periódicos capes
- Outras ferramentas Google Scholar
-Research Gate
-Currículo lattes
-scihub
  Dicas: buscas no google
  </description>
     </item>
