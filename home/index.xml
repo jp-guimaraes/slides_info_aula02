@@ -5,11 +5,7 @@
     <link>https://jp-guimaraes.github.io/slides_info_aula02/home/</link>
     <description>Recent content in Homes on Fontes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jp-guimaraes.github.io/slides_info_aula02/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/slides_info_aula02/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://jp-guimaraes.github.io/slides_info_aula02/home/intro/</link>
@@ -38,7 +34,7 @@ Software
 Pessoas
  SO Software
 Interface entre Hardware e os demais softwares e os usuários
-     quais os sistemas operacionais atuais? Requisitos &amp;amp; aplicações
+    quais os sistemas operacionais atuais? Requisitos &amp;amp; aplicações
 Interfaces de uso
 Estatísticas
  Conteúdo assíncrono Acesse
